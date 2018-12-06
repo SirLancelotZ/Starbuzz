@@ -20,6 +20,7 @@
             android:name=".DrinkCategoryActivity"
             android:label="@string/title_activity_drink_category"
             android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name=".DrinkActivity" />
     </application>
 
 </manifest>
