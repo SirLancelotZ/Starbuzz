@@ -27,5 +27,4 @@ public class DrinkCategoryActivity extends ListActivity {
         startActivity(intent);
     }
 
-
 }
